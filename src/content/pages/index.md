@@ -10,8 +10,7 @@ pageSections:
     headingSize: 4xl
     subtext: >-
       Upload your home inspection report for a fast and completely free repair
-      quote. We will connect you to licensed pros to get the job done right,
-      and on time!
+      quote returned in 5 minutes or less, 7 days a week.
     buttonSections:
       - _component: building-blocks/core-elements/button
         text: Get a Free Quote in ~5 Mins
@@ -108,9 +107,9 @@ pageSections:
             rounded: false
           eyebrowIcon: {}
           eyebrowText:
-          title: Quotes generated in 24 hours!
+          title: Quotes generated in 5 minutes!
           description: >-
-            We will have your free quote back to you in 24 hours or less. We're
+            We will have your free quote back to you in 5 minutes or less. We're
             not saying we have broken the laws of physics, but our platform
             operates at speeds that stop any delays.
           columnSpan: 5
@@ -337,7 +336,7 @@ pageSections:
   - _component: page-sections/people/testimonial-section
     text: >-
       Closing delays used to be my biggest headache. Now, free repair quotes
-      arrive within 24 hours.
+      arrive within 5 minutes.
     authorName: Sarah Jenkins
     authorDescription: Senior Realtor, Miller Home
     authorImage: /src/assets/images/testimonial.png
@@ -373,7 +372,7 @@ pageSections:
             _component: building-blocks/core-elements/list
             items:
               - _component: building-blocks/core-elements/list/list-item
-                text: Free quotes returned in 24 hrs
+                text: Free quotes returned in 5 minutes
                 iconName: check-circle
                 iconColor: purple
               - _component: building-blocks/core-elements/list/list-item

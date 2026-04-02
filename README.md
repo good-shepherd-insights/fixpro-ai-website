@@ -2,11 +2,11 @@
 
 FixPro turns home inspection reports into detailed, completely free repair quotes from licensed and insured contractors. 
 
-Receive a competitively priced quote in 24 hours or less, 7 days a week, with no hassle scheduling multiple contractors.
+Receive a competitively priced quote in 5 minutes or less, 7 days a week, with no hassle scheduling multiple contractors.
 
 ## Core Value Proposition
 
-- **24 Hours or Less**: Get your free quote back rapidly.
+- **5 Minutes or Less**: Get your free quote back rapidly.
 - **Licensed Contractors**: A team of vetted, local pros ready to get the job done.
 - **Escrow Billing**: Pay by credit card, check, or even out of escrow!
 - **Zero Friction**: We do the price-shopping for you from our vast network.

@@ -290,7 +290,7 @@ pageSections:
 
 
                   For more complex migrations requiring custom configurations,
-                  our team can have you operational within 24 hours.
+                  our team can have you operational within 5 minutes.
 
 
                   We've timed it. Multiple times. With stopwatches.
