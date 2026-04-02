@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: FixPro | Astro Template for CloudCannon
-description: 'An Astro template built for CloudCannon with visual editing, flexible components, and an exceptional developer experience. Deploy your next project with speed and style.'
+title: FixPro | Free Home Repair Quotes in 5 Minutes
+description: "Upload your home inspection report and get a detailed, free repair quote from vetted local contractors in under 5 minutes. No more closing delays."
 pageSections:
   - _component: page-sections/heroes/hero-center
     eyebrowIcon: {}
@@ -15,7 +15,7 @@ pageSections:
       - _component: building-blocks/core-elements/button
         text: Get a Free Quote in ~5 Mins
         hideText: false
-        link: 'https://app.cloudcannon.com/register#sites/connect/github/cloudcannon/fixpro-astro-template'
+        link: 'https://fixpro.ai/'
         iconName: arrow-up-right
         iconPosition: after
         variant: primary
@@ -23,7 +23,7 @@ pageSections:
       - _component: building-blocks/core-elements/button
         text: View Licensed Contractor Quotes
         hideText: false
-        link: 'https://github.com/CloudCannon/astro-component-starter'
+        link: 'https://fixpro.ai/'
         iconName: arrow-up-right
         iconPosition: after
         variant: tertiary
@@ -100,7 +100,7 @@ pageSections:
     featureGrid:
       features:
         - _component: page-sections/features/feature-grid/feature-item
-          link: ''
+          link: 'https://fixpro.ai/'
           image:
             source: /src/assets/images/card-1.svg
             alt: Dashboard accelerate
@@ -115,7 +115,7 @@ pageSections:
           columnSpan: 5
           rowSpan: 1
         - _component: page-sections/features/feature-grid/feature-item
-          link: ''
+          link: 'https://fixpro.ai/'
           image:
             source: ''
             alt: ''
@@ -130,7 +130,7 @@ pageSections:
           columnSpan: 3
           rowSpan: 1
         - _component: page-sections/features/feature-grid/feature-item
-          link: ''
+          link: 'https://fixpro.ai/'
           image:
             source: /src/assets/images/card-2.svg
             alt: Dashboard queries
@@ -145,7 +145,7 @@ pageSections:
           columnSpan: 4
           rowSpan: 1
         - _component: page-sections/features/feature-grid/feature-item
-          link: ''
+          link: 'https://fixpro.ai/'
           image:
             source: /src/assets/images/card-3.svg
             alt: Dashboard global
@@ -160,7 +160,7 @@ pageSections:
           columnSpan: 3
           rowSpan: 1
         - _component: page-sections/features/feature-grid/feature-item
-          link: ''
+          link: 'https://fixpro.ai/'
           image:
             source: /src/assets/images/card-4.svg
             alt: Dashboard uptime
@@ -391,7 +391,7 @@ pageSections:
             _component: building-blocks/core-elements/button
             text: Get started
             hideText: false
-            link: https://cloudcannon.com/templates/jetstream/
+            link: https://fixpro.ai/
             iconName: arrow-right
             iconPosition: after
             variant: secondary
@@ -428,7 +428,7 @@ pageSections:
             _component: building-blocks/core-elements/button
             text: Contact Us
             hideText: false
-            link: https://cloudcannon.com/templates/jetstream/
+            link: https://fixpro.ai/
             iconName: arrow-right
             iconPosition: after
             variant: secondary

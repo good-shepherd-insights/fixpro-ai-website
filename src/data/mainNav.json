@@ -34,7 +34,7 @@
       "_component": "building-blocks/core-elements/button",
       "text": "Get started",
       "hideText": false,
-      "link": "/",
+      "link": "https://fixpro.ai/",
       "iconName": "arrow-right",
       "iconPosition": "after",
       "variant": "primary",

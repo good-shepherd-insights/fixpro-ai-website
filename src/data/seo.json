@@ -1,8 +1,8 @@
 {
-  "name": "FixPro Astro Template for CloudCannon",
-  "url": "https://example.com",
-  "description": "",
-  "logoSource": "/images/logo.svg",
-  "titleFormat": "{title} | FixPro Astro Template for CloudCannon",
-  "twitterHandle": "@yourusername"
+  "name": "FixPro AI",
+  "url": "https://fixpro.ai",
+  "description": "Turn your home inspection report into a free, accurate repair quote from licensed contractors in under 5 minutes.",
+  "logoSource": "/src/assets/images/fixpro-logo.png",
+  "titleFormat": "{title} | FixPro | Free Repair Quotes in 5 Mins",
+  "twitterHandle": "@FixProAI"
 }
