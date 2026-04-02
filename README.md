@@ -1,67 +1,41 @@
-# Jetstream
+# FixPro
 
-Jetstream is a polished, high-performance marketing website template for Astro. Browse through a [live demo](https://crawling-submarine.cloudvent.net/).
+FixPro turns home inspection reports into detailed, completely free repair quotes from licensed and insured contractors. 
 
-![Jetstream template screenshot](public/images/_screenshot.png)
+Receive a competitively priced quote in 24 hours or less, 7 days a week, with no hassle scheduling multiple contractors.
 
-[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/cloudcannon/jetstream-astro-template)
+## Core Value Proposition
+
+- **24 Hours or Less**: Get your free quote back rapidly.
+- **Licensed Contractors**: A team of vetted, local pros ready to get the job done.
+- **Escrow Billing**: Pay by credit card, check, or even out of escrow!
+- **Zero Friction**: We do the price-shopping for you from our vast network.
 
 ## Features
 
-- **Modern Architecture**: Built with Astro for optimal performance and minimal JavaScript
-- **Visual Editing**: Visual editing with [CloudCannon](https://cloudcannon.com/) editable regions - edit directly on the pages
-- **Component Library**: Reusable, componentized architecture for better maintainability
-- **Image Optimization**: Astro's built-in image optimization for all images
-- **Accessibility**: Fully accessible navigation and components
-- **Design Tokens**: CSS variables for consistent theming
-- **Blog System**: Complete blog with pagination and category pages
-- **SEO Optimized**: Pre-configured for search engine optimization
+- **Modern Architecture**: Built with Astro for optimal performance and minimal JavaScript.
+- **Visual Editing**: Fully integrated with [CloudCannon](https://cloudcannon.com/) for a seamless content management experience.
+- **SEO Optimized**: Pre-configured for maximum visibility in the real estate market.
+- **Responsive Components**: A library of flexible, componentized sections designed for high conversion.
 
-## Setup
-
-1. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/)
-   or Astro locally).
+## Getting Started
 
 ### Local Development
 
-Jetstream is built with [Astro](https://astro.build/) and modern CSS for a lean, performant development experience.
+FixPro is built with [Astro](https://astro.build/) and modern CSS.
 
 ```bash
 npm install
 npm run dev
 ```
 
-## Site Details
+## Tech Stack
 
-### Tech Stack
+- **Astro**: Static site generation with component islands architecture.
+- **CSS**: Modern CSS with custom properties and cascade layers.
+- **Lightning CSS**: Fast CSS processing and optimization.
+- **TypeScript**: Type-safe component development.
 
-- **Astro**: Static site generation with component islands architecture
-- **CSS**: Modern CSS with custom properties and cascade layers
-- **Lightning CSS**: Fast CSS processing and optimization
-- **TypeScript**: Type-safe component development
+---
 
-## Editing
-
-Jetstream features advanced visual editing capabilities with CloudCannon's split configuration, allowing for intuitive content management and real-time preview.
-
-### Visual Editing
-
-- **Live Preview**: See changes instantly as you edit
-- **Component-based**: Edit reusable components directly in context
-- **Split Configuration**: Modern CloudCannon setup for enhanced editing experience
-
-### Content Management
-
-#### Posts
-
-- Add, update or remove posts in the _Posts_ collection
-- Automatic pagination and category organization
-- Rich content editing with live preview
-
-#### Site Configuration
-
-- **SEO**: Centralized company information reused across the site
-- **Navigation**: Fully accessible, responsive navigation management
-- **Footer**: Configurable footer elements and links
-
-For more details on the component architecture and development workflow, view the [Astro Component Starter README](https://github.com/CloudCannon/astro-component-starter).
+© 2026 FixPro. All rights reserved.
