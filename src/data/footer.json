@@ -5,22 +5,6 @@
     {
       "name": "Home",
       "path": "/"
-    },
-    {
-      "name": "Pricing",
-      "path": "/pricing/"
-    },
-    {
-      "name": "Blog",
-      "path": "/blog/"
-    },
-    {
-      "name": "About",
-      "path": "/about/"
-    },
-    {
-      "name": "Contact",
-      "path": "/contact/"
     }
   ],
   "socials": [
@@ -30,11 +14,7 @@
     },
     {
       "icon": "social/github",
-      "link": "https://github.com"
-    },
-    {
-      "icon": "social/gitlab",
-      "link": "https://about.gitlab.com/"
+      "link": "https://github.com/good-shepherd-insights/fixpro-ai-website"
     },
     {
       "icon": "social/discord",
@@ -45,5 +25,5 @@
       "link": "https://linkedin.com"
     }
   ],
-  "footerText": "© 2026 All rights reserved."
+  "footerText": "© 2026 FixPro AI. All rights reserved."
 }

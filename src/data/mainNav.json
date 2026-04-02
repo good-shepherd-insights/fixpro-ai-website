@@ -17,26 +17,6 @@
           "children": []
         }
       ]
-    },
-    {
-      "name": "Blog",
-      "path": "/blog/",
-      "children": []
-    },
-    {
-      "name": "Pricing",
-      "path": "/pricing/",
-      "children": []
-    },
-    {
-      "name": "About",
-      "path": "/about/",
-      "children": []
-    },
-    {
-      "name": "Contact",
-      "path": "/contact/",
-      "children": []
     }
   ],
   "buttonSections": [
@@ -54,7 +34,7 @@
       "_component": "building-blocks/core-elements/button",
       "text": "Get started",
       "hideText": false,
-      "link": "https://cloudcannon.com/templates/jetstream/",
+      "link": "/",
       "iconName": "arrow-right",
       "iconPosition": "after",
       "variant": "primary",
