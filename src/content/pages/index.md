@@ -189,151 +189,151 @@ pageSections:
       size: none
       direction: front
     rounded: false
-  - _component: page-sections/info-blocks/tabbed-content
-    id: solutions
-    eyebrowIcon: {}
-    eyebrowText:
-    heading: Free repair quotes that sell themselves!
-    subtext: >-
-      We don't just provide free quotes — we provide accurate pricing that
-      understands your business. And your clients.
-    tabs:
-      - _component: building-blocks/wrappers/content-selector/content-selector-item
-        title: Buyer Agent
-        subtext: Representing buyers and negotiating repairs now
-        contentSections:
-          - _component: building-blocks/wrappers/split
-            label: ''
-            firstColumnContentSections:
-              - _component: building-blocks/core-elements/simple-text
-                text: >-
-                  We implemented our completely free quoting protocol and deployed
-                  dedicated local contractor teams with exact pricing models that
-                  won't slow a closing down.
-
-                  Buyers can see exactly what repairs should cost in real-time,
-                  and negotiations are completed at the speed of a single phone
-                  call — which, our research confirms, is how it should work.
-                alignX: start
-                size: md
-            secondColumnContentSections: []
-            distributionMode: three-quarters-quarter
-            fixedWidth:
-            minSplitWidth: 760
-            verticalAlignment: center
-            reverse: false
-            reverseOrderOnMobile: false
-            gap: lg
-          - _component: building-blocks/wrappers/split
-            label: ''
-            firstColumnContentSections:
-              - _component: building-blocks/core-elements/image
-                id: ''
-                source: /src/assets/images/medi-connect.png
-                alt: Person thinking
-                rounded: false
-                aspectRatio: none
-                positionVertical: center
-                positionHorizontal: center
-                priority: false
-            secondColumnContentSections:
-              - _component: building-blocks/core-elements/counter
-                number: 94
-                prefix:
-                suffix: '%'
-                alignX: start
-                size: xl
-              - _component: building-blocks/core-elements/text
-                text: '**Reduction in connection quality complaints**'
-                alignX: start
-              - _component: building-blocks/core-elements/counter
-                number: 340
-                prefix:
-                suffix: x
-                alignX: start
-                size: xl
-              - _component: building-blocks/core-elements/text
-                text: '**More numbers than other companies**'
-                alignX: start
-            distributionMode: three-quarters-quarter
-            fixedWidth:
-            minSplitWidth: 760
-            verticalAlignment: center
-            reverse: false
-            reverseOrderOnMobile: false
-            gap: lg
-      - _component: building-blocks/wrappers/content-selector/content-selector-item
-        title: Listing Agent
-        subtext: 'Listing real estate agent processing property sales for top clients '
-        contentSections:
-          - _component: building-blocks/wrappers/split
-            label: ''
-            firstColumnContentSections:
-              - _component: building-blocks/core-elements/simple-text
-                text: >-
-                  Sellers needed totally free repair quotes that matched buyer
-                  expectations and contractor quality that exceeded inspection
-                  paranoia. Their clients now experience rapid closing solutions
-                  while delays are neutralized before they realize they've stalled.
-                  Real estate quoting that is faster than calling and more
-                  reliable than gravity.
-                alignX: start
-                size: md
-            secondColumnContentSections: []
-            distributionMode: three-quarters-quarter
-            fixedWidth:
-            minSplitWidth: 760
-            verticalAlignment: center
-            reverse: false
-            reverseOrderOnMobile: false
-            gap: lg
-          - _component: building-blocks/wrappers/split
-            label: ''
-            firstColumnContentSections:
-              - _component: building-blocks/core-elements/image
-                id: ''
-                source: /src/assets/images/fin-trust.png
-                alt: Fintrust dashboard
-                rounded: false
-                aspectRatio: none
-                positionVertical: center
-                positionHorizontal: center
-                priority: false
-            secondColumnContentSections:
-              - _component: building-blocks/core-elements/counter
-                number: 2.3
-                prefix:
-                suffix: s
-                alignX: start
-                size: xl
-              - _component: building-blocks/core-elements/text
-                text: '**Average transaction completion time**'
-                alignX: start
-              - _component: building-blocks/core-elements/counter
-                number: 100
-                prefix:
-                suffix: '%'
-                alignX: start
-                size: xl
-              - _component: building-blocks/core-elements/text
-                text: '**Mitigation rate against 12,000+ daily attack attempts**'
-                alignX: start
-            distributionMode: three-quarters-quarter
-            fixedWidth:
-            minSplitWidth: 760
-            verticalAlignment: center
-            reverse: false
-            reverseOrderOnMobile: false
-            gap: lg
-    navigationPosition: top
-    maxContentWidth: 2xl
-    paddingVertical: 4xl
-    colorScheme: light
-    backgroundColor: highlight-grid
-    verticalOffset:
-      size: none
-      direction: ''
-    rounded: false
+#  - _component: page-sections/info-blocks/tabbed-content
+#    id: solutions
+#    eyebrowIcon: {}
+#    eyebrowText:
+#    heading: Free repair quotes that sell themselves!
+#    subtext: >-
+#      We don't just provide free quotes — we provide accurate pricing that
+#      understands your business. And your clients.
+#    tabs:
+#      - _component: building-blocks/wrappers/content-selector/content-selector-item
+#        title: Buyer Agent
+#        subtext: Representing buyers and negotiating repairs now
+#        contentSections:
+#          - _component: building-blocks/wrappers/split
+#            label: ''
+#            firstColumnContentSections:
+#              - _component: building-blocks/core-elements/simple-text
+#                text: >-
+#                  We implemented our completely free quoting protocol and deployed
+#                  dedicated local contractor teams with exact pricing models that
+#                  won't slow a closing down.
+#
+#                  Buyers can see exactly what repairs should cost in real-time,
+#                  and negotiations are completed at the speed of a single phone
+#                  call — which, our research confirms, is how it should work.
+#                alignX: start
+#                size: md
+#            secondColumnContentSections: []
+#            distributionMode: three-quarters-quarter
+#            fixedWidth:
+#            minSplitWidth: 760
+#            verticalAlignment: center
+#            reverse: false
+#            reverseOrderOnMobile: false
+#            gap: lg
+#          - _component: building-blocks/wrappers/split
+#            label: ''
+#            firstColumnContentSections:
+#              - _component: building-blocks/core-elements/image
+#                id: ''
+#                source: /src/assets/images/medi-connect.png
+#                alt: Person thinking
+#                rounded: false
+#                aspectRatio: none
+#                positionVertical: center
+#                positionHorizontal: center
+#                priority: false
+#            secondColumnContentSections:
+#              - _component: building-blocks/core-elements/counter
+#                number: 94
+#                prefix:
+#                suffix: '%'
+#                alignX: start
+#                size: xl
+#              - _component: building-blocks/core-elements/text
+#                text: '**Reduction in connection quality complaints**'
+#                alignX: start
+#              - _component: building-blocks/core-elements/counter
+#                number: 340
+#                prefix:
+#                suffix: x
+#                alignX: start
+#                size: xl
+#              - _component: building-blocks/core-elements/text
+#                text: '**More numbers than other companies**'
+#                alignX: start
+#            distributionMode: three-quarters-quarter
+#            fixedWidth:
+#            minSplitWidth: 760
+#            verticalAlignment: center
+#            reverse: false
+#            reverseOrderOnMobile: false
+#            gap: lg
+#      - _component: building-blocks/wrappers/content-selector/content-selector-item
+#        title: Listing Agent
+#        subtext: 'Listing real estate agent processing property sales for top clients '
+#        contentSections:
+#          - _component: building-blocks/wrappers/split
+#            label: ''
+#            firstColumnContentSections:
+#              - _component: building-blocks/core-elements/simple-text
+#                text: >-
+#                  Sellers needed totally free repair quotes that matched buyer
+#                  expectations and contractor quality that exceeded inspection
+#                  paranoia. Their clients now experience rapid closing solutions
+#                  while delays are neutralized before they realize they've stalled.
+#                  Real estate quoting that is faster than calling and more
+#                  reliable than gravity.
+#                alignX: start
+#                size: md
+#            secondColumnContentSections: []
+#            distributionMode: three-quarters-quarter
+#            fixedWidth:
+#            minSplitWidth: 760
+#            verticalAlignment: center
+#            reverse: false
+#            reverseOrderOnMobile: false
+#            gap: lg
+#          - _component: building-blocks/wrappers/split
+#            label: ''
+#            firstColumnContentSections:
+#              - _component: building-blocks/core-elements/image
+#                id: ''
+#                source: /src/assets/images/fin-trust.png
+#                alt: Fintrust dashboard
+#                rounded: false
+#                aspectRatio: none
+#                positionVertical: center
+#                positionHorizontal: center
+#                priority: false
+#            secondColumnContentSections:
+#              - _component: building-blocks/core-elements/counter
+#                number: 2.3
+#                prefix:
+#                suffix: s
+#                alignX: start
+#                size: xl
+#              - _component: building-blocks/core-elements/text
+#                text: '**Average transaction completion time**'
+#                alignX: start
+#              - _component: building-blocks/core-elements/counter
+#                number: 100
+#                prefix:
+#                suffix: '%'
+#                alignX: start
+#                size: xl
+#              - _component: building-blocks/core-elements/text
+#                text: '**Mitigation rate against 12,000+ daily attack attempts**'
+#                alignX: start
+#            distributionMode: three-quarters-quarter
+#            fixedWidth:
+#            minSplitWidth: 760
+#            verticalAlignment: center
+#            reverse: false
+#            reverseOrderOnMobile: false
+#            gap: lg
+#    navigationPosition: top
+#    maxContentWidth: 2xl
+#    paddingVertical: 4xl
+#    colorScheme: light
+#    backgroundColor: highlight-grid
+#    verticalOffset:
+#      size: none
+#      direction: ''
+#    rounded: false
   - _component: page-sections/people/testimonial-section
     text: >-
       Downtime used to be a weekly crisis. Now it's a theoretical concept we
