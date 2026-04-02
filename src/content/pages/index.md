@@ -14,7 +14,7 @@ pageSections:
       and on time!
     buttonSections:
       - _component: building-blocks/core-elements/button
-        text: Get a Free Quote in 24 Hours
+        text: Get a Free Quote in ~5 Mins
         hideText: false
         link: 'https://app.cloudcannon.com/register#sites/connect/github/cloudcannon/fixpro-astro-template'
         iconName: arrow-up-right
@@ -400,7 +400,7 @@ pageSections:
           columnSpan: 5
           rowSpan: 1
         - _component: page-sections/features/feature-grid/pricing-item
-          title: Custom
+          title: Team
           price:
             prefix: ''
             amount: 'Custom'
