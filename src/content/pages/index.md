@@ -336,10 +336,10 @@ pageSections:
 #    rounded: false
   - _component: page-sections/people/testimonial-section
     text: >-
-      Downtime used to be a weekly crisis. Now it's a theoretical concept we
-      vaguely remember.
-    authorName: Dr. Liz Vante
-    authorDescription: CTO, MediConnect Healthcare
+      Closing delays used to be my biggest headache. Now, free repair quotes
+      arrive within 24 hours.
+    authorName: Sarah Jenkins
+    authorDescription: Senior Realtor, Miller Home
     authorImage: /src/assets/images/testimonial.png
     maxContentWidth: xl
     paddingVertical: 2xl
